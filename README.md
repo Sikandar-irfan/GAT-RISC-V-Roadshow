@@ -4,28 +4,15 @@ Welcome to the VSDSquadron Mini RISC-V Development Board workshop documentation!
 
 ## Table of Contents
 
-- [Workshop Documentation](#workshop-documentation-)
-- [Contents](#contents)
-- [Usage](#usage)
-- [Important Notes](#important-notes)
-- [Updates](#updates)
-- [VSDSquadron Mini RISC-V Development Board](#vsdsquadron-mini-risc-v-development-board-)
-  - [Quick Start](#quick-start)
-  - [Overview](#overview)
-  - [Features](#features)
-  - [Technical Specifications](#technical-specifications)
-  - [Development Environment Setup](#development-environment-setup)
-- [Introduction](#introduction)
-- [Documentation](#documentation)
-   - [Setup Guide](#setup-guide)
-   - [Technical Details](#technical-details)
-- [Usage Instructions](#usage-instructions)
-- [Important Information](#important-information)
-- [VSDSquadron Board](#vsdsquadron-board)
-   - [Quick Start Guide](#quick-start-guide)
-   - [Features Overview](#features-overview)
-   - [Technical Specs](#technical-specs)
-   - [Development Setup](#development-setup)
+- [Overview](#overview)
+- [Features](#features)
+- [Technical Specifications](#technical-specifications)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation Guide](#installation-guide)
+- [Board Setup](#board-setup)
+- [Programming Guide](#programming-guide)
+- [Support](#support)
 
 ## Introduction
 

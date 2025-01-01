@@ -1,6 +1,6 @@
-# Workshop Documentation 📚
+# Workshop Documentation 
 
-This repository contains essential documentation for workshop setup and technical specifications.
+Welcome to the VSDSquadron Mini RISC-V Development Board workshop documentation! This comprehensive guide contains all the essential information you need for setup and development. The VSDSquadron Mini is an innovative RISC-V development board designed for education and development, featuring the CH32V003F4U6 chip with a 32-bit RISC-V core based on the RV32EC instruction set. This documentation will walk you through the process of setting up your workshop, understanding the technical specifications, and getting started with development.
 
 ## Table of Contents
 

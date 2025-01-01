@@ -2,85 +2,104 @@
 
 This repository contains essential documentation for workshop setup and technical specifications.
 
-## 📑 Table of Contents
+## Table of Contents
 
-### 1. Steps To Setup Labs
+- [Introduction](#introduction)
+- [Documentation](#documentation)
+  - [Setup Guide](#setup-guide)
+  - [Technical Details](#technical-details)
+- [Usage Instructions](#usage-instructions)
+- [Important Information](#important-information)
+- [VSDSquadron Board](#vsdsquadron-board)
+  - [Quick Start Guide](#quick-start-guide)
+  - [Features Overview](#features-overview)
+  - [Technical Specs](#technical-specs)
+  - [Development Setup](#development-setup)
+
+## Introduction
+
+This repository provides comprehensive documentation for the VSDSquadron Mini RISC-V Development Board workshop.
+
+## Documentation
+
+### Setup Guide
 - Comprehensive guide for laboratory setup
 - File: `StepsToSetupLabs.pdf`
 - Size: 754.6 KB
 - Purpose: Provides detailed instructions for setting up workshop laboratories
 
-### 2. Technical Datasheet
+### Technical Details
 - Detailed technical specifications
 - File: `datasheet.pdf`
 - Size: 15.9 MB
 - Purpose: Contains technical specifications and reference materials
 
-## 🔧 Usage
+## Usage Instructions
 
 1. Start with `StepsToSetupLabs.pdf` for initial setup instructions
 2. Refer to `datasheet.pdf` for technical specifications and details
 
-## 📌 Important Notes
+## Important Information
 
 - Ensure to follow the setup steps in the correct order
 - Keep these documents for future reference
 - Both PDFs contain crucial information for workshop operation
 
-## 🔄 Updates
-
-Last updated: January 1, 2025
-
----
-
-# VSDSquadron Mini RISC-V Development Board 🚀
+## VSDSquadron Board
 
 <div align="center">
 
 [![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/vsdip/vsdsquadron_mini)
 [![Documentation](https://img.shields.io/badge/Documentation-Wiki-orange.svg)](https://github.com/vsdip/vsdsquadron_mini/wiki)
 [![Community](https://img.shields.io/badge/Chat-Slack-purple.svg)](https://vsdsquadron.slack.com/)
-![Views](https://img.shields.io/github/watchers/Sikandar-irfan/GAT-RISC-V-Roadshow?style=flat)
 
-  <img src="images/board.png" alt="VSDSquadron Mini Board" width="400"/>
-  <br>
-  <em>VSDSquadron Mini: Your Gateway to RISC-V Development</em>
-  
-  [Quick Start](#quick-start) • [Documentation](#documentation) • [Features](#features) • [Support](#support)
+<img src="images/board.png" alt="VSDSquadron Mini Board" width="400"/>
+<br>
+<em>VSDSquadron Mini: Your Gateway to RISC-V Development</em>
 </div>
 
----
+### Quick Start Guide
 
-## 🌟 Workshop Documentation 📚
+#### Prerequisites
+- VSCode
+- 100GB free space
+- USB Type-C cable
+- Windows/Ubuntu OS
 
-This repository contains essential documentation for workshop setup and technical specifications.
+#### Board Connection
+<div align="center">
+<img src="images/board_connection.png" alt="Board Connection" width="400"/>
+<br>
+<em>Connect USB Type-C as shown</em>
+</div>
 
-### 1. Steps To Setup Labs
-- Comprehensive guide for laboratory setup
-- File: `StepsToSetupLabs.pdf`
-- Size: 754.6 KB
-- Purpose: Provides detailed instructions for setting up workshop laboratories
+### Features Overview
 
-### 2. Technical Datasheet
-- Detailed technical specifications
-- File: `datasheet.pdf`
-- Size: 15.9 MB
-- Purpose: Contains technical specifications and reference materials
+- CH32V003F4U6 with 32-bit RISC-V core (RV32EC)
+- 24MHz system main frequency
+- 2KB SRAM
+- 16KB CodeFlash
+- 1920B Bootloader
 
-## 🔧 Usage
+### Technical Specs
 
-1. Start with `StepsToSetupLabs.pdf` for initial setup instructions
-2. Refer to `datasheet.pdf` for technical specifications and details
+#### Board Specifications
+| Parameter | Specification |
+|-----------|---------------|
+| Form Factor | 50.00 x 28.00 mm |
+| I/O Voltage | 3.3V |
+| Input Voltage | 5V (USB) |
+| Operating Temperature | 20-35°C |
 
-## 📌 Important Notes
+#### GPIO Configuration
+- 15 I/O ports in 3 groups
+- USART (PD6-RX, PD5-TX)
+- I2C (PC1-SDA, PC2-SCL)
+- SPI (PC5-SCK, PC1-NSS, PC6-MOSI, PC7-MISO)
 
-- Ensure to follow the setup steps in the correct order
-- Keep these documents for future reference
-- Both PDFs contain crucial information for workshop operation
+### Development Setup
 
-## 🔄 Updates
-
-Last updated: January 1, 2025
+For detailed setup instructions, please refer to our [setup guide](#setup-guide).
 
 ## 📋 Table of Contents
 

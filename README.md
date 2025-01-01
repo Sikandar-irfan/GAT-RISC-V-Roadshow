@@ -83,17 +83,17 @@ https://github.com/vsdip/vsdsquadron_pio
 
 ## 📋 Table of Contents
 
-- [Workshop Documentation](#workshop-documentation)
-  - [Contents](#contents)
-  - [Usage](#usage)
-  - [Important Notes](#important-notes)
-  - [Updates](#updates)
-- [VSDSquadron Mini RISC-V Development Board](#vsdsquadron-mini-risc-v-development-board)
-  - [Quick Start](#quick-start)
-  - [Overview](#overview)
-  - [Features](#features)
-  - [Technical Specifications](#technical-specifications)
-  - [Development Environment Setup](#development-environment-setup)
+- [Workshop Documentation 📚](#workshop-documentation-)
+  - [📑 Contents](#-contents)
+  - [🔧 Usage](#-usage)
+  - [📌 Important Notes](#-important-notes)
+  - [🔄 Updates](#-updates)
+- [VSDSquadron Mini RISC-V Development Board 🚀](#vsdsquadron-mini-risc-v-development-board-)
+  - [🌟 Quick Start](#-quick-start)
+  - [🎯 Overview](#-overview)
+  - [⚡ Features](#-features)
+  - [🔧 Technical Specifications](#-technical-specifications)
+  - [🖥️ Development Environment Setup](#️-development-environment-setup)
 
 ## 🎯 Overview
 

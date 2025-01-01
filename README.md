@@ -14,6 +14,65 @@ Welcome to the VSDSquadron Mini RISC-V Development Board workshop documentation!
 - [Programming Guide](#programming-guide)
 - [Support](#support)
 
+## Overview
+
+The VSDSquadron Mini is an innovative RISC-V development board designed for education and development. It features the CH32V003F4U6 chip with a 32-bit RISC-V core based on the RV32EC instruction set.
+
+## Features
+
+- CH32V003F4U6 with 32-bit RISC-V core (RV32EC)
+- 24MHz system main frequency
+- 2KB SRAM
+- 16KB CodeFlash
+- 1920B Bootloader
+- Multiple communication interfaces (USART, I2C, SPI)
+
+## Technical Specifications
+
+| Parameter | Specification |
+|-----------|---------------|
+| Form Factor | 50.00 x 28.00 mm |
+| I/O Voltage | 3.3V |
+| Input Voltage | 5V (USB) |
+| Operating Temperature | 20-35°C |
+
+## Getting Started
+
+### Prerequisites
+
+- VSCode
+- 100GB free space
+- USB Type-C cable
+- Windows/Ubuntu OS
+
+### Installation Guide
+
+1. Download and install VSCode
+2. Install required extensions
+3. Set up development environment
+4. Configure board drivers
+
+## Board Setup
+
+1. Connect USB Type-C cable
+2. Install necessary drivers
+3. Verify board connection
+4. Configure development environment
+
+## Programming Guide
+
+1. Basic programming workflow
+2. Code examples
+3. Debugging instructions
+4. Common programming patterns
+
+## Support
+
+For technical support and questions:
+- Visit our [Documentation Wiki](https://github.com/vsdip/vsdsquadron_mini/wiki)
+- Join our [Community Chat](https://vsdsquadron.slack.com/)
+- Report issues on GitHub
+
 ## Introduction
 
 This repository provides comprehensive documentation for the VSDSquadron Mini RISC-V Development Board workshop.

@@ -112,20 +112,6 @@ This repository provides comprehensive documentation for the VSDSquadron Mini RI
 
 For detailed setup instructions, please refer to our [setup guide](#setup-guide).
 
-## 📋 Table of Contents
-
-- [Workshop Documentation 📚](#workshop-documentation-)
-  - [Contents](#contents)
-  - [Usage](#usage)
-  - [Important Notes](#important-notes)
-  - [Updates](#updates)
-- [VSDSquadron Mini RISC-V Development Board 🚀](#vsdsquadron-mini-risc-v-development-board-)
-  - [Quick Start](#quick-start)
-  - [Overview](#overview)
-  - [Features](#features)
-  - [Technical Specifications](#technical-specifications)
-  - [Development Environment Setup](#development-environment-setup)
-
 ## 🎯 Overview
 
 <div align="center">

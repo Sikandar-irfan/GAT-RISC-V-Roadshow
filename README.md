@@ -2,7 +2,7 @@
 
 This repository contains essential documentation for workshop setup and technical specifications.
 
-## 📑 Contents
+## 📑 Table of Contents
 
 ### 1. Steps To Setup Labs
 - Comprehensive guide for laboratory setup
@@ -51,49 +51,50 @@ Last updated: January 1, 2025
 
 ---
 
-## 🌟 Quick Start
+## 🌟 Workshop Documentation 📚
 
-<details>
-<summary>Click to expand!</summary>
+This repository contains essential documentation for workshop setup and technical specifications.
 
-### Prerequisites
-- VSCode
-- 100GB free space
-- USB Type-C cable
-- Windows/Ubuntu OS
+### 1. Steps To Setup Labs
+- Comprehensive guide for laboratory setup
+- File: `StepsToSetupLabs.pdf`
+- Size: 754.6 KB
+- Purpose: Provides detailed instructions for setting up workshop laboratories
 
-### 1. Connect Your Board
-<div align="center">
-  <img src="images/board_connection.png" alt="Board Connection" width="400"/>
-  <br>
-  <em>Connect USB Type-C as shown</em>
-</div>
+### 2. Technical Datasheet
+- Detailed technical specifications
+- File: `datasheet.pdf`
+- Size: 15.9 MB
+- Purpose: Contains technical specifications and reference materials
 
-### 2. Install Required Software
-```bash
-# 1. Download VSCode
-https://code.visualstudio.com
+## 🔧 Usage
 
-# 2. Install PlatformIO Extension
-# 3. Add CH32V Platform
-https://github.com/vsdip/vsdsquadron_pio
-```
+1. Start with `StepsToSetupLabs.pdf` for initial setup instructions
+2. Refer to `datasheet.pdf` for technical specifications and details
 
-</details>
+## 📌 Important Notes
+
+- Ensure to follow the setup steps in the correct order
+- Keep these documents for future reference
+- Both PDFs contain crucial information for workshop operation
+
+## 🔄 Updates
+
+Last updated: January 1, 2025
 
 ## 📋 Table of Contents
 
 - [Workshop Documentation 📚](#workshop-documentation-)
-  - [📑 Contents](#-contents)
-  - [🔧 Usage](#-usage)
-  - [📌 Important Notes](#-important-notes)
-  - [🔄 Updates](#-updates)
+  - [Contents](#contents)
+  - [Usage](#usage)
+  - [Important Notes](#important-notes)
+  - [Updates](#updates)
 - [VSDSquadron Mini RISC-V Development Board 🚀](#vsdsquadron-mini-risc-v-development-board-)
-  - [🌟 Quick Start](#-quick-start)
-  - [🎯 Overview](#-overview)
-  - [⚡ Features](#-features)
-  - [🔧 Technical Specifications](#-technical-specifications)
-  - [🖥️ Development Environment Setup](#️-development-environment-setup)
+  - [Quick Start](#quick-start)
+  - [Overview](#overview)
+  - [Features](#features)
+  - [Technical Specifications](#technical-specifications)
+  - [Development Environment Setup](#development-environment-setup)
 
 ## 🎯 Overview
 

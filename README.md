@@ -550,6 +550,14 @@ int main(void) {
 
 </details>
 
+## Introduction to Openlane
+
+<div align="center">
+  <img src="images/vsd1.png" alt="Description of VSDSquadron" width="400"/>
+  <br>
+  <em>VSDSquadron image description.</em>
+</div>
+
 ## 🤝 Support
 
 <details>

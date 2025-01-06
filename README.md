@@ -553,8 +553,9 @@ int main(void) {
 ## Introduction to Openlane
 
 <div align="center">
-  <img src="images/vsd1.png" alt="Openlane in Docker" width="400"/>
+  <img src="images/vsd1.png" alt="Openlane in Docker" width="600"/>
   <br>
+   <em>Openlane in Docker</em>
 </div>
 
 ## 🤝 Support
